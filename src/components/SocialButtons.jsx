@@ -5,7 +5,7 @@ export default function SocialButtons() {
         <div className="social-btns">
             <a 
                 target="_blank"
-                href="https://stevenalp18.github.io/">
+                href="https://stevenalp.com/">
                 <button className="social-btns--website">
                     <img 
                     src="https://cdn-icons-png.flaticon.com/512/646/646094.png" />
